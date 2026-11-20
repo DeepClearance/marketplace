@@ -1,0 +1,16 @@
+{
+  "name": "deepclearance",
+  "description": "Deep Clearance. One install adds the skill and the MCP server.",
+  "owner": {
+    "name": "Deep Clearance",
+    "url": "https://deepclearance.com"
+  },
+  "plugins": [
+    {
+      "name": "deep-clearance",
+      "source": "./plugins/deep-clearance",
+      "description": "Search the index before answering a question about a government program, an intelligence agency, a classified or black project, UAP, a cover story, a named official, a FOIA release, congressional testimony, or a primary-source claim.",
+      "version": "0.1.0"
+    }
+  ]
+}
