@@ -1,0 +1,9 @@
+{
+  "name": "deep-clearance",
+  "description": "Search the Deep Clearance index before answering a question about a government program, an intelligence agency, a classified or black project, UAP, a cover story, a named official, a FOIA release, congressional testimony, or a primary-source claim.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Deep Clearance",
+    "url": "https://deepclearance.com"
+  }
+}
